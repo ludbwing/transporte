@@ -1,0 +1,83 @@
+{
+  "direccion": "Prueba 1",
+  "fecha": "2026-03-02T21:10:03.486674",
+  "total_vehiculos": 19,
+  "por_tipo": {
+    "auto": 19
+  },
+  "por_color": {
+    "azul": 8,
+    "rojo": 5,
+    "blanco": 2,
+    "gris": 2,
+    "plateado": 1,
+    "negro": 1
+  },
+  "analisis_congestion": {
+    "promedio_vehiculos_simultaneos": 14.87,
+    "max_vehiculos_simultaneos": 15,
+    "historial": [
+      {
+        "timestamp": "2026-03-02T21:10:01.470391",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 14,
+        "promedio": 14.97
+      },
+      {
+        "timestamp": "2026-03-02T21:10:01.681550",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 14,
+        "promedio": 14.93
+      },
+      {
+        "timestamp": "2026-03-02T21:10:01.884205",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 14,
+        "promedio": 14.9
+      },
+      {
+        "timestamp": "2026-03-02T21:10:02.093280",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 14,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:02.295199",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:02.501694",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:02.718909",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:02.911143",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:03.115210",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      },
+      {
+        "timestamp": "2026-03-02T21:10:03.319668",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 15,
+        "promedio": 14.87
+      }
+    ]
+  },
+  "timestamp": "2026-03-02T21:10:03.486689"
+}

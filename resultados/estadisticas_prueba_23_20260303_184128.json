@@ -1,0 +1,77 @@
+{
+  "direccion": "prueba 23",
+  "fecha": "2026-03-03T18:41:28.456332",
+  "total_vehiculos": 1,
+  "por_tipo": {
+    "auto": 1
+  },
+  "por_color": {
+    "azul": 1
+  },
+  "analisis_congestion": {
+    "promedio_vehiculos_simultaneos": 1.0,
+    "max_vehiculos_simultaneos": 1,
+    "historial": [
+      {
+        "timestamp": "2026-03-03T18:41:24.475094",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:25.023709",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:25.522490",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:25.969395",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:26.389935",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:26.766349",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:27.140979",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:27.509649",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:27.896515",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      },
+      {
+        "timestamp": "2026-03-03T18:41:28.272663",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 1,
+        "promedio": 1.0
+      }
+    ]
+  }
+}

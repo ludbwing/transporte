@@ -1,0 +1,73 @@
+{
+  "direccion": "Av. Principal 123",
+  "fecha": "2026-03-03T17:32:38.932970",
+  "total_vehiculos": 0,
+  "por_tipo": {},
+  "por_color": {},
+  "analisis_congestion": {
+    "promedio_vehiculos_simultaneos": 0.0,
+    "max_vehiculos_simultaneos": 0,
+    "historial": [
+      {
+        "timestamp": "2026-03-03T17:32:36.467013",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:36.670493",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:36.900311",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:37.113092",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:37.359221",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:37.568407",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:37.798674",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:38.022805",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:38.339806",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      },
+      {
+        "timestamp": "2026-03-03T17:32:38.544618",
+        "nivel": "FLUJO LIBRE",
+        "vehiculos": 0,
+        "promedio": 0.0
+      }
+    ]
+  }
+}

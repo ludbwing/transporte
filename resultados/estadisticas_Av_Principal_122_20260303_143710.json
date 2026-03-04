@@ -1,0 +1,80 @@
+{
+  "direccion": "Av. Principal 122",
+  "fecha": "2026-03-03T14:37:10.105314",
+  "total_vehiculos": 16,
+  "por_tipo": {
+    "auto": 12,
+    "bus": 4
+  },
+  "por_color": {
+    "negro": 7,
+    "azul": 8,
+    "rojo": 1
+  },
+  "analisis_congestion": {
+    "promedio_vehiculos_simultaneos": 9.7,
+    "max_vehiculos_simultaneos": 12,
+    "historial": [
+      {
+        "timestamp": "2026-03-03T14:37:08.222194",
+        "nivel": "MODERADO",
+        "vehiculos": 12,
+        "promedio": 7.87
+      },
+      {
+        "timestamp": "2026-03-03T14:37:08.453670",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 8.1
+      },
+      {
+        "timestamp": "2026-03-03T14:37:08.665968",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 8.33
+      },
+      {
+        "timestamp": "2026-03-03T14:37:08.875378",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 8.57
+      },
+      {
+        "timestamp": "2026-03-03T14:37:09.095458",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 8.8
+      },
+      {
+        "timestamp": "2026-03-03T14:37:09.324390",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 9.0
+      },
+      {
+        "timestamp": "2026-03-03T14:37:09.515731",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 9.2
+      },
+      {
+        "timestamp": "2026-03-03T14:37:09.682920",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 9.37
+      },
+      {
+        "timestamp": "2026-03-03T14:37:09.866588",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 9.53
+      },
+      {
+        "timestamp": "2026-03-03T14:37:10.046920",
+        "nivel": "CONGESTIÓN ALTA",
+        "vehiculos": 12,
+        "promedio": 9.7
+      }
+    ]
+  }
+}
