@@ -1,0 +1,24 @@
+{
+  "name": "transporte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludbwing/transporte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ludbwing/transporte/issues"
+  },
+  "homepage": "https://github.com/ludbwing/transporte#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
